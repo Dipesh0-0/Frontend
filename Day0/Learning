@@ -1,0 +1,22 @@
+make html file  
+Ans : create any file with .html name
+make boilerplate
+Ans : the starting point of html 
+understand tag
+Ans : tags are the anything that has open and close <> brackets
+understand h1-h6
+Ans : h1 to h6 are the heading tags used for heading ofcourse
+understand p
+Ans : P is a paragraph tag use for writing a paragraph
+understand br 
+Ans : line break tag
+understand img
+Ans : Img tag to insert image
+understand a
+Ans : anchor tag to insert links or or hyperlinks
+understand div 
+Ans : an rectangle width full height 0 height is equal to children height
+understand id
+Ans: unique name given to any tag and shouldn't be repeated
+understand class
+Ans : unique name that can be repeated
